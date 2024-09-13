@@ -1,3 +1,5 @@
-print('hello world')
+print("hello world")
 print("It's a rainy day today")
 print('good bye')
+print('how are you')
+print("It's a good day today")
